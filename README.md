@@ -15,7 +15,7 @@ Estudante de Sistemas de Informação, e aspirante á desenvolvedor Back-End.
 
 ## 🚀 Projetos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bonantech&repo=RatingBMI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/bonantech/dioJava)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bonantech&repo=dioJava&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/bonantech/dioJava)
 
 ## 📊 GitHub Stats
 
