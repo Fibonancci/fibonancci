@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas! 👋
 
-Estudante de Sistemas de Informação, e aspirante á desenvolvedor Back-End.
+Estudante de Ciência da Computação, e aspirante á desenvolvedor Back-End.
 
 ## 👨🏾‍💻 Tecnologias
 
