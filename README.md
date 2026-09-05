@@ -12,13 +12,13 @@ Estudante de Ciência da Computação, e aspirante á desenvolvedor Back-End.
 
 ## 🚀 Projetos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Fibonancci&repo=mazetcc&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Fibonancci/mazetcc)
+[![Repo Card](https://github-stats-extended.vercel.app/api/pin/?username=Fibonancci&repo=mazetcc&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Fibonancci/mazetcc)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Fibonancci&repo=algebra-linear-computacional&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Fibonancci/algebra-linear-computacional/)
+[![Repo Card](https://github-stats-extended.vercel.app/api/pin/?username=Fibonancci&repo=algebra-linear-computacional&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Fibonancci/algebra-linear-computacional)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fibonancci&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=fibonancci&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## 💬 Vamos conversar?
 
